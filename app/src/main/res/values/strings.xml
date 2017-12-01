@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App Info</string>
+    <string name="toast_text_package_name">Package name: %s</string>
+    <string name="toast_text_activity_name">Activity name: %s</string>
+</resources>
